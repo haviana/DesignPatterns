@@ -6,3 +6,6 @@ Source https://refactoring.guru/design-patterns/singleton
 ## Creational
 ### Factory
 ### AbsctractFactory
+## Strategy
+### Facade
+### Strategy
